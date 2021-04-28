@@ -7,9 +7,9 @@
 
 - 📄 Experiências Conheci a programação em conjunto com o ensino médio. Com isso, aprendi bastante sobre conceitos de engeharia de software e suas metodologias ágeis, aprendi sobre UML, banco de dados e sua construção e elaborei como TCC um sistema de cadastro para uma clínica médica, devidamente documentado. Recentemente, entrei na faculdade de Sistemas de Informação para continuar a construir minha carreira na área de TI, em especifico, na área de desenvolvimento web. Conheci a programação em conjunto com o ensino médio. Com isso, aprendi bastante sobre conceitos de engeharia de software e suas metodologias ágeis, aprendi sobre UML, banco de dados e sua construção e elaborei como TCC um sistema de cadastro para uma clínica médica, devidamente documentado. Recentemente, entrei na faculdade de Sistemas de Informação para continuar a construir minha carreira na área de TI, em especifico, na área de desenvolvimento web
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-gomes-9296551b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-gomes-9296551b3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-gomes-9296551b3/" target="blank"> Meu Linkedin<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-gomes-9296551b3/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
