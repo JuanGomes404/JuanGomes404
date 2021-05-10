@@ -1,5 +1,5 @@
 <h1 align="center">Juan Gomes</h1>
-<h3 align="center">Estudante de desenvolvimento web, técnico em desenvolvimento de sistemas pelo Colégio Pedro II e estudante de Sistemas de Informação na UNIRIO</h3>
+<h3 align="center">Estudante de desenvolvimento web, técnico em desenvolvimento de sistemas pelo Colégio Pedro II</h3>
 
 - Estou estudando sobre **HTML, CSS, Javascript, Vue JS, mySQL e PHP**
 
