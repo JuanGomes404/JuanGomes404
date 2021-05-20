@@ -2,7 +2,7 @@
 <h3 align="center">Técnico em desenvolvimento de sistemas - Colégio Pedro II</h3>
 <h3 align="center">Estudante de Sistemas de Informação - UNIRIO </h3>
 
-- Estou estudando sobre **HTML, CSS, Javascript, mySQL e PHP**
+- Tecnologias: **HTML, CSS, Javascript, mySQL e PHP**
 
 - 📫 Contato **juangsantanna@gmail.com**
 - Linkedin: https://www.linkedin.com/in/juan-gomes-9296551b3/
