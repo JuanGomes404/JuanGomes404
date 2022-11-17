@@ -7,7 +7,7 @@
 - Linkedin: https://www.linkedin.com/in/juan-gomes-9296551b3/
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juangomes404&" alt="juangomes404" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juangomes404&" alt="juangomes404" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juangomes404&show_icons=true&locale=en&layout=compact" alt="juangomes404" /></p>
+<p align ="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juangomes404&show_icons=true&locale=en&layout=compact" alt="juangomes404" /></p>
 
