@@ -1,6 +1,7 @@
 <h1 align="center">Juan Gomes</h1>
+<h3 align="center">Sistemas de Informação - UNIRIO </h3>
 <h3 align="center">Técnico em desenvolvimento de sistemas - Colégio Pedro II</h3>
-<h3 align="center">Estudante de Sistemas de Informação - UNIRIO </h3>
+
 
 
 - 📫 Contato **juangsantanna@gmail.com**
